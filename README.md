@@ -1,7 +1,8 @@
-# 网站管理系统框架
+# c5-tailorx-factory
 
-> 一套基于`vue.js` `element-ui`的网站管理系统框架 
+> 一套基于`vue.js` `element-ui` 的项目
 
+[访问地址](http://factory.test.tailorx.cn)(账号：tailorx  密码：123456)
 [源码地址](https://github.com/Xuffy/vue-wms)
 [问题反馈](https://github.com/Xuffy/vue-wms/issues)
 
